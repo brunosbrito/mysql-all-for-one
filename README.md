@@ -1,13 +1,18 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# MySQL All For One
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+# Contexto
+Este projeto trata-se de um banco de dados chamado Sakila onde precisamos criar queries para resolver desafios.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Técnologias usadas
+
+> Docker e MySQL
+## Oque coloquei em pratica com esse projeto?
+Com a realização desse projeto coloquei em pratica meus conhecimento com docker e MySQL.
+Foi realizado queries para solucionar 27 desafios e com isso coloquei em pratica o INSERT, DELETE,
+WHERE, AS, COUNT, UPDATE, AND, BETWEEN, IN, NOT e outros operdadores logicos do SQL.
+
+## Para verificar a solução dos desafios basta clonar o repositório e acessar os arquivos na raiz com nomeação de desafios.
+
+> Clonar Repositório
+
+Abre o CMD e digite o comando "git clone git@github.com:brunosbrito/mysql-all-for-one.git"
